@@ -244,7 +244,6 @@ int id always 0x7f05000b
 int id beginning 0x7f050011
 int id checkbox 0x7f05002d
 int id collapseActionView 0x7f05000d
-int id container 0x7f05003f
 int id default_activity_button 0x7f050028
 int id dialog 0x7f05000e
 int id disableHome 0x7f050008
@@ -287,6 +286,7 @@ int id tabMode 0x7f050002
 int id title 0x7f05002b
 int id top_action_bar 0x7f050020
 int id tv1_flash 0x7f05003c
+int id tv1_main 0x7f05003f
 int id tv2_flash 0x7f05003d
 int id tv3_flash 0x7f05003e
 int id up 0x7f050021
