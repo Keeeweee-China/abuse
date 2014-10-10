@@ -4,5 +4,7 @@
     <string name="app_name">abuse</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+	<string name="title">Abuse</string>
+    <string name="subtitle">Support By Keeeweee</string>
+    <string name="versions">versions 1.0.0</string>
 </resources>

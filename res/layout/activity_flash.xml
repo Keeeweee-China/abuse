@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="#FAFFF0" >
+
+    <!-- <ImageView
+        android:id="@+id/iv_flash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/icon" />
+ -->
+    <TextView
+        android:id="@+id/tv1_flash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="@string/title"
+        android:textSize="28sp"
+        android:textColor="#292421" />
+
+    <TextView
+        android:id="@+id/tv2_flash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv1_flash"
+        android:layout_centerHorizontal="true"
+        android:text="@string/subtitle"
+        android:layout_marginTop="5dp"
+        android:textSize="10sp"
+        android:textColor="#292421" />
+    
+    <TextView
+        android:id="@+id/tv3_flash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dip"
+        android:text="@string/versions"
+        android:textSize="10sp"
+        android:textColor="#292421" />
+
+</RelativeLayout>
